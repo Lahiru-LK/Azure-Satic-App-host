@@ -1,10 +1,12 @@
 CREATE Satatic APP HOST
 
 01 create Repor
+
 02 Shell
 	$ ls
 	$ mkdir <folder name>
 	$ cd ictb
+
   ictb	$ git clone https://github.com/Azure-Samples/html-docs-hello-world.git 
 	
 	-- go to this clone web folder
